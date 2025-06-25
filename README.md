@@ -84,5 +84,5 @@ Atualmente me aprofundando em **JavaScript**, **Python** e **lógica de programa
 ---
 
 <p align="center">
-  🚀 **"Em constante evolução"**
+  🚀 Em constante evolução
 </p>
